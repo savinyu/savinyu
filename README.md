@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Savinyu Pant</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.behance.net/gallery/183178475/Coding](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fn8agw6z2smyb1.gif%3Fwidth%3D1920%26format%3Dmp4%26s%3D014a8734c8d65fe3b5ef04658714bef6fc97778c](https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=mp4&s=014a8734c8d65fe3b5ef04658714bef6fc97778c" />
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1NuZaEHWwpuJx9_ZBOD4fS1z2rdSsRZFo/view?usp=sharing" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savinyu&label=Profile%20views&color=0e75b6&style=flat" alt="savinyu" /> </p>
 
