@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Savinyu Pant</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-![coding_gif](https://github.com/savinyu/savinyu/assets/100479891/e9874f6a-5208-4621-b028-b0e4e3af2c60)
+(https://github.com/savinyu/savinyu/assets/100479891/e9874f6a-5208-4621-b028-b0e4e3af2c60)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savinyu&label=Profile%20views&color=0e75b6&style=flat" alt="savinyu" /> </p>
