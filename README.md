@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/savinyu" target="blank"><img src="https://img.shields.io/twitter/follow/savinyu?logo=twitter&style=for-the-badge" alt="savinyu" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs** and **React-Three-Fiber**
+- 🌱 I’m currently learning **K8s**
 - 💬 Ask me about **ThreeJs**
 
 - 📫 How to reach me **savinyupant@gmail.com**
