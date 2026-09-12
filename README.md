@@ -121,13 +121,13 @@ An interactive 3D product configurator built for the web.
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,docker,postman,kubernetes" />
 </p>
 
 ---
