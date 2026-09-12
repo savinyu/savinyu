@@ -96,7 +96,7 @@ A URL shortening service with custom URLs and click tracking.
 
 ---
 
-### 🪑 [Chair Configurator](https://github.com/savinyu/Chair_Configurator)
+### 🪑 [Gaming Chair 3D Configurator](https://github.com/savinyu/Gaming-Chair-Configurator-2.0)
 
 An interactive 3D product configurator built for the web.
 
